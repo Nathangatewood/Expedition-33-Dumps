@@ -1,0 +1,10 @@
+1.Base Attack Verso: 102,658
+2.Free Aim Verso: 26,306
+3.Follow Up Verso: 2,425,300
+4.Base Attack Maelle: 66,878
+5.Free Aim Maelle: 8,619
+6.Stendhal Maelle: 1,206,636
+7.Base Attack Sciel: 6,743 (With Combo Attack active, so the first hit did 6,743 and the second hit for ~4,400, I wasn't able to catch it)
+8.Free Aim Sciel: 1,349
+9.Grim Harvest Sciel: 24,275
+10.Maelle Counter Attack: 4,600,476
